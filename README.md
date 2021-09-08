@@ -57,3 +57,6 @@ Here is a list of AWS CloudFormation resource provider repos
 - [Timestream](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-timestream)
 - [VPC Flow Logs](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-ec2-flowlog)
 - [WAF v2](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-wafv2)
+- [Transit Gateway](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-transitgateway)
+- [IoT Fleet Hub](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotfleethub)
+- [IoT Fleet Indexing](https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-iotfleetindexing)
